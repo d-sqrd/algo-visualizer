@@ -1,4 +1,4 @@
-const DELAY = 10;
+const DELAY = 300;
 let time = 0;
 
 
