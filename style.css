@@ -1,0 +1,14 @@
+#parent {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.bars {
+    width: 15px;
+    margin-left: 10px;
+    /* background: #6fde45; */
+    /* background-color: #6fde45; */
+    background-color: green;
+    float: left;
+}
