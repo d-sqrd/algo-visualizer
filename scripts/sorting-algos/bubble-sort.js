@@ -1,5 +1,5 @@
-const DELAY = 300;
 let time = 0;
+const DELAY = 300;
 
 
 function bubbleSort(barsArr) {
